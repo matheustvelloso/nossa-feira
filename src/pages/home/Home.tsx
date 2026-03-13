@@ -59,7 +59,7 @@ import nossaFeira from 'assets/LogoNossaFeira.svg';
 import imgRight from 'assets/heroImageRight.jpg';
 import imgLeft from 'assets/heroImageLeft.jpg';
 import imgFood from 'assets/NossaFeira-Setembro2025-TeiadeEventos-145.jpg';
-import lotes from 'assets/nossaFeiraLotes.jpeg';
+import lotes from 'assets/nossaFeiraLotes.png';
 
 import { useScrollReveal } from 'hooks/useScrollReveal';
 

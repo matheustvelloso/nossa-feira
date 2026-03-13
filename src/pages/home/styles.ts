@@ -593,7 +593,6 @@ export const LotesOverlay = styled.div`
   position: absolute;
   inset: 0;
   border-radius: ${({ theme }) => theme.borderRadius.lg};
-  backdrop-filter: blur(8px);
   background-color: rgba(0, 0, 0, 0.35);
   display: flex;
   align-items: center;
