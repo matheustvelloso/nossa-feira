@@ -99,7 +99,7 @@ const Home: React.FC = () => {
         <HeroTitle>
           <img src={nossaFeira} alt="Nossa Feira" />
         </HeroTitle>
-        <HeroBadge>30/07 A 02/08</HeroBadge>
+        {/* <HeroBadge>30/07 A 02/08</HeroBadge> */}
 
         <FloatingImageLeft>
           <img src={imgLeft} alt="Evento - cultura e moda" />
