@@ -60,6 +60,7 @@ import imgRight from 'assets/heroImageRight.webp';
 import imgLeft from 'assets/heroImageLeft.webp';
 import imgFood from 'assets/NossaFeira-Setembro2025-TeiadeEventos-145.webp';
 import lotes from 'assets/nossaFeiraLotes.webp';
+import heroImg from 'assets/heroBanner.webp';
 
 import { useScrollReveal } from 'hooks/useScrollReveal';
 
