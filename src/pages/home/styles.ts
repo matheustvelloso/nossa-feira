@@ -1,6 +1,6 @@
 import styled from 'styled-components';
 
-import heroImg from 'assets/heroBanner.png';
+import heroImg from 'assets/heroBanner.webp';
 
 /* Hero Section */
 

@@ -1,7 +1,7 @@
-import imgA from 'assets/NossaFeira-Setembro2025-TeiadeEventos-137.jpg';
-import imgB from 'assets/NossaFeira-Setembro2025-TeiadeEventos-44.jpg';
-import imgC from 'assets/NossaFeira-Setembro2025-TeiadeEventos-12.jpg';
-import imgD from 'assets/NossaFeira-Setembro2025-TeiadeEventos-206.jpg';
+import imgA from 'assets/NossaFeira-Setembro2025-TeiadeEventos-137.webp';
+import imgB from 'assets/NossaFeira-Setembro2025-TeiadeEventos-44.webp';
+import imgC from 'assets/NossaFeira-Setembro2025-TeiadeEventos-12.webp';
+import imgD from 'assets/NossaFeira-Setembro2025-TeiadeEventos-206.webp';
 
 export const photoColumns = [
   {

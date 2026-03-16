@@ -56,10 +56,10 @@ import {
 } from './styles';
 
 import nossaFeira from 'assets/LogoNossaFeira.svg';
-import imgRight from 'assets/heroImageRight.jpg';
-import imgLeft from 'assets/heroImageLeft.jpg';
-import imgFood from 'assets/NossaFeira-Setembro2025-TeiadeEventos-145.jpg';
-import lotes from 'assets/nossaFeiraLotes.png';
+import imgRight from 'assets/heroImageRight.webp';
+import imgLeft from 'assets/heroImageLeft.webp';
+import imgFood from 'assets/NossaFeira-Setembro2025-TeiadeEventos-145.webp';
+import lotes from 'assets/nossaFeiraLotes.webp';
 
 import { useScrollReveal } from 'hooks/useScrollReveal';
 
